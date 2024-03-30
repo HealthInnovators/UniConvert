@@ -4,4 +4,4 @@ https://docs.google.com/document/d/1nbXWEePBfhLfzxmGQ7cu4ccqimgBQ1zazDmzuxdGM-E/
 
 Excalidraw link for the design of the Uniprot system:
 
-https://excalidraw.com/#json=d_mH-7TP8IVTxLS_uZxqD,oyaMouyHLDrV3qrQ4bdMMw
+https://excalidraw.com/#json=w2kK2SDNqZYNtncAtRXiP,_nMcFrgeL43X3FhdM9h9tw
