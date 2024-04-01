@@ -10,7 +10,7 @@ Welcome to UniConvert AI!
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I like playing Call of Duty mobile, fitness, listening and dancing to Hip-Hop music and playing sports including basketball and soccer. 
 
-Checkout UniConvert AI Wiki page at [https://github.com/HealthInnovators/uniconvert-ai/wiki](https://github.com/HealthInnovators/UniConvert/wiki)
+Checkout UniConvert AI Wiki page at [https://github.com/HealthInnovators/uniconvert/wiki](https://github.com/HealthInnovators/UniConvert/wiki)
 
 UniConvert is a user-friendly tool that leverages large language models (LLMs) to transform data from various formats into clean, well-structured JSON.
 
