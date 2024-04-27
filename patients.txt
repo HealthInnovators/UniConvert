@@ -1,0 +1,5 @@
+PatientID    Name            Age    Diagnosis
+1            Alice Johnson   35     Hypertension
+2            Bob Smith       42     Diabetes
+3            Carol Lee       28     Migraine
+4            David Brown     50     Arthritis
