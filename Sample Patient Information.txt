@@ -1,0 +1,39 @@
+Patient Information:
+- Name: John Doe
+- Date of Birth: January 15, 1975
+- Gender: Male
+- Address: 123 Main Street, Anytown, USA
+- Phone: (555) 123-4567
+- Insurance: ABC Health Insurance
+
+Medical History:
+- Allergies: None known
+- Past Medical History: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia
+- Surgical History: Appendectomy (2005)
+- Family History: Father with Type 2 Diabetes Mellitus, Mother with Hypertension
+- Social History: Non-smoker, Occasional alcohol use, Sedentary lifestyle
+
+Current Medications:
+1. Lisinopril 10mg daily for hypertension
+2. Metformin 1000mg twice daily for diabetes mellitus
+3. Atorvastatin 20mg daily for hyperlipidemia
+
+Vital Signs:
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F (oral)
+
+Physical Examination:
+- General: Alert and oriented, in no acute distress
+- HEENT: Pupils equal, round, and reactive to light. No conjunctival injection or discharge. Tympanic membranes intact bilaterally.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Distal pulses intact bilaterally.
+- Respiratory: Clear to auscultation bilaterally. No wheezing, rales, or rhonchi.
+- Abdomen: Soft, non-tender, non-distended. No hepatosplenomegaly.
+- Neurological: Cranial nerves II-XII intact. Normal sensation and strength in all extremities.
+
+Assessment and Plan:
+- Controlled hypertension, diabetes mellitus, and hyperlipidemia.
+- Continue current medications and advise patient on adherence.
+- Counsel on lifestyle modifications including diet and exercise to improve overall health.
+- Schedule follow-up appointment in 3 months for routine monitoring.
