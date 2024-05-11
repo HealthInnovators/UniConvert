@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<patient>
+  <name>John Doe</name>
+  <age>45</age>
+  <gender>male</gender>
+  <BMI>32.4</BMI>
+  <conditions>
+    <condition>
+      <name>hypertension</name>
+      <controlled>false</controlled>
+    </condition>
+    <condition>
+      <name>type 2 diabetes</name>
+      <controlled>false</controlled>
+    </condition>
+  </conditions>
+  <vitals>
+    <blood_pressure>
+      <systolic>150</systolic>
+      <diastolic>95</diastolic>
+    </blood_pressure>
+    <fasting_blood_glucose>180</fasting_blood_glucose>
+    <hemoglobin_A1C>8.2</hemoglobin_A1C>
+    <creatinine>1.1</creatinine>
+  </vitals>
+  <lab_results>
+    <liver_function>
+      <AST></AST>
+      <ALT></ALT>
+    </liver_function>
+    <lipid_profile>
+      <LDL_cholesterol>140</LDL_cholesterol>
+      <HDL_cholesterol>35</HDL_cholesterol>
+    </lipid_profile>
+  </lab_results>
+  <symptoms>
+    <symptom>persistent fatigue</symptom>
+    <symptom>occasional dizziness</symptom>
+    <symptom>tingling in the extremities</symptom>
+    <symptom>mild exertional shortness of breath</symptom>
+  </symptoms>
+  <medications>
+    <medication>metformin</medication>
+    <medication>amlodipine</medication>
+  </medications>
+  <family_history>
+    <history>cardiovascular disease</history>
+  </family_history>
+  <social_history>
+    <smoking_status>negative</smoking_status>
+    <alcohol_intake>socially</alcohol_intake>
+  </social_history>
+</patient>

@@ -1,0 +1,80 @@
+{
+    "Patient": {
+      "name": "John Doe",
+      "age": 45,
+      "gender": "male",
+      "height": null,
+      "weight": null,
+      "BMI": 32.4,
+      "conditions": [
+        {
+          "name": "hypertension",
+          "controlled": false
+        },
+        {
+          "name": "type 2 diabetes",
+          "controlled": false
+        }
+      ],
+      "vitals": {
+        "blood_pressure": {
+          "systolic": 150,
+          "diastolic": 95
+        },
+        "fasting_blood_glucose": 180,
+        "hemoglobin_A1C": 8.2,
+        "creatinine": 1.1,
+        "eGFR": null
+      },
+      "lab_results": {
+        "liver_function": {
+          "AST": null,
+          "ALT": null
+        },
+        "lipid_profile": {
+          "total_cholesterol": null,
+          "HDL_cholesterol": 35,
+          "LDL_cholesterol": 140,
+          "triglycerides": null
+        }
+      },
+      "symptoms": [
+        {
+          "symptom": "fatigue",
+          "severity": "persistent"
+        },
+        {
+          "symptom": "dizziness",
+          "severity": "occasional"
+        },
+        {
+          "symptom": "tingling in the extremities",
+          "severity": null
+        },
+        {
+          "symptom": "shortness of breath",
+          "severity": "mild exertional"
+        }
+      ],
+      "medications": [
+        {
+          "name": "metformin",
+          "dosage": null
+        },
+        {
+          "name": "amlodipine",
+          "dosage": null
+        }
+      ],
+      "family_history": [
+        {
+          "relation": "cardiovascular disease",
+          "details": null
+        }
+      ],
+      "lifestyle": {
+        "smoking": "negative",
+        "alcohol_intake": "socially"
+      }
+    }
+  }  

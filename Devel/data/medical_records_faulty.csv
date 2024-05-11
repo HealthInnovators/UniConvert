@@ -1,0 +1,2 @@
+Patient Name,Age,Gender,BMI,Blood Pressure (Systolic),Blood Pressure (Diastolic),Fasting Blood Glucose,Hemoglobin A1C,Creatinine,eGFR,AST,ALT,Total Cholesterol,HDL Cholesterol,LDL Cholesterol,Triglycerides,Fatigue,Dizziness,Tingling in Extremities,Shortness of Breath,Metformin,Amlodipine,Cardiovascular Disease,Smoking,Alcohol Intake
+John Doe,45,male,32.4,150,95,180,8.2,1.1,,,,,140,35,,,,,persistent,occasional,,mild exertional,yes,,yes,negative,socially

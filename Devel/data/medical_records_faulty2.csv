@@ -1,0 +1,2 @@
+Patient Name,Age,Gender,BMI,Condition,Controlled,Systolic BP,Diastolic BP,Fasting Blood Glucose,HbA1c,Creatinine,eGFR,AST,ALT,Total Cholesterol,HDL Cholesterol,LDL Cholesterol,Triglycerides,Symptoms,Medications,Family History,Smoking Status,Alcohol Intake
+John Doe,45,male,32.4,hypertension,False,150,95,180,8.2,1.1,,,,,140,35,,,,,persistent fatigue;occasional dizziness;tingling in the extremities;mild exertional shortness of breath,metformin;amlodipine,cardiovascular disease,,negative,socially

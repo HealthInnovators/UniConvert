@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Patient>
+  <name>John Doe</name>
+  <age>45</age>
+  <gender>male</gender>
+  <BMI>32.4</BMI>
+  <conditions>
+    <condition>
+      <name>hypertension</name>
+      <controlled>false</controlled>
+    </condition>
+    <condition>  
+      <name>type 2 diabetes</name>
+      <controlled>false</controlled>
+    </condition>
+  </conditions>
+  <vitals>
+    <blood_pressure>
+      <systolic>150</systolic>
+      <diastolic>95</diastolic>
+    </blood_pressure>
+    <fasting_blood_glucose>180</fasting_blood_glucose>
+    <hemoglobin_A1C>8.2</hemoglobin_A1C>
+    <creatinine>1.1</creatinine> 
+  </vitals>
+  <!-- other elements -->
+  <symptoms>
+    <symptom name="fatigue">persistent</symptom>
+    <symptom name="dizziness">occasional</symptom>
+    <symptom name="tingling in the extremities"/>
+    <symptom name="shortness of breath">mild exertional</symptom>
+  </symptoms>
+  <medications>
+    <medication name="metformin"/>
+    <medication name="amlodipine"/>
+  </medications>
+  <family_history>
+    <relation>cardiovascular disease</relation>
+  </family_history>
+  <lifestyle>
+    <smoking>negative</smoking>
+    <alcohol_intake>socially</alcohol_intake>
+  </lifestyle>
+</Patient>

@@ -1,0 +1,12 @@
+Address,Empty,Wrong Extension?,Given Extension,Actual Extension,Faulty? 
+data/empty_json_sample.json,True,False,json,json,False       
+data/empty_txt_sample.txt,True,False,txt,txt,False       
+data/empty_xml.xml,True,False,xml,xml,False       
+data/medical_records.json,False,False,json,json,False       
+data/medical_records.txt,False,False,txt,txt,False       
+data/medical_records.xml,False,False,xml,xml,False       
+data/medical_records2.xml,False,False,xml,xml,False       
+data/medical_records_2.json,False,False,json,json,False    
+data/medical_records_fake_json.xml,False,True,xml,json,False         
+data/medical_records_faulty.csv,False,False,csv,csv,True      
+data/medical_records_faulty2.csv,False,False,csv,csv,True      
